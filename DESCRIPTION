@@ -1,0 +1,11 @@
+Package: rqapp
+Type: Package
+Title: Recurrence Quantification Analyis of Time Series Data
+Version: 1.0
+Date: 2018-03-09
+Author: Aaron Likens
+Maintainer: Aaron Likens <aaron.d.likens@gmail.com>
+Description: This package performs Recurrence Quantification Analyis on univariate and multivariate time series data.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.14)
+LinkingTo: Rcpp, RcppArmadillo
