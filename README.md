@@ -8,7 +8,8 @@ Coco, M. I., & Dale, R. (2014). Cross-recurrence quantification analysis of cate
 # installation
 rqapp can now be installed from github:
 
-library(devtools)\n
+library(devtools)
+
 install_github('aaronlikens/rqapp')
 
 NOTE: This is a source package and requires compilation of C++ code. 
